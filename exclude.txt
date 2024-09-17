@@ -1,0 +1,8 @@
+# Repositories listed below will not be set to private.
+#
+# Format:
+# <username>/<repository name>
+#
+# Example:
+# rharri/privatize-repo
+#
